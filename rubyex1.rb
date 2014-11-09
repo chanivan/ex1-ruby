@@ -6,7 +6,6 @@
 puts "Type a sentence:"
 sentence=gets.chomp
 
-
 puts "Type a number:"
 num1=gets.chomp.to_i
 
